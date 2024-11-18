@@ -1,6 +1,6 @@
 Ngwuta Desmond Chidiebere - @chydee
 
-Currently a Mobile Developer at NUBiA Mega Tech Nigeria.
+Currently a Mobile Developer at [NUBiA Mega Tech](https://nubiatech.co/)
 
 📧 desmondchidi311@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/ngwuta)  
@@ -8,14 +8,11 @@ Currently a Mobile Developer at NUBiA Mega Tech Nigeria.
 
 ## My Experience
 
-**Mobile Developer** at NUBiA Mega Tech Nigeria  
-- Building modern, scalable mobile applications for various clients using cutting-edge technologies.
+**Mobile Developer** at [_NUBiA Mega Tech_](https://nubiatech.co/) Building modern, scalable mobile applications with Flutter/Dart.
 
-**Android Engineer** at Jamit  
-- Developed a social audio app using Java, Kotlin, and Jetpack Compose, optimizing for performance and compatibility.  
+**Android Engineer** at [_Jamit_](https://jamit.app/) working with Java/Kotlin.  
 
-**Android Developer** at PreDiagn  
-- Designed and built the Skrind health diagnostics app with a focus on TensorFlow Lite and Firebase integration.  
+**Android Developer** at PreDiagn built the Skrind health diagnostics app with a focus on TensorFlow Lite and Firebase integration.  
 
 ## My Projects
 
