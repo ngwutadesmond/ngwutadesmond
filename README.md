@@ -1,4 +1,4 @@
-Ngwuta Desmond Chidiebere - @chydee
+Ngwuta Desmond Chidiebere - @DLXXVII
 
 Currently a Mobile Developer at [NUBiA Mega Tech](https://nubiatech.co/)
 
