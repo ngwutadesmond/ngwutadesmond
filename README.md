@@ -1,6 +1,6 @@
 # Ngwuta Desmond Chidiebere — @DLXXVII
 
-🚀 **Mobile Developer | Flutter & Android Specialist | Learning iOS**
+🚀 **Mobile Developer | Flutter & Android Specialist**
 
 I'm a mobile developer with 4+ years of experience building **scalable**, **maintainable**, and **performance-driven** apps using Flutter, Kotlin, and Java. I’m currently working full-time at [NUBiA Mega Tech](https://nubiatech.co/) and also freelance with startups and solo founders to bring ideas to life—fast.
 
@@ -8,7 +8,6 @@ I specialize in **Flutter** and **native Android**, and I'm currently expanding 
 
 📧 desmondchidi311@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/ngwuta)  
-🌐 [GitHub](https://github.com/DLXXVII)
 
 ---
 
