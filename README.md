@@ -1,9 +1,5 @@
 ![Header](1500x500.jpeg)
 
-# Desmond Ngwuta — @desmondngwuta  
-
-**Indie Developer | Freelance Software Engineer | Flutter & Fullstack**  
-
 I’m a software engineer with 4+ years of experience helping **startups, founders, and businesses** bring their ideas to life through **mobile and web applications**.  
 
 I specialize in:  
