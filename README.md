@@ -3,8 +3,8 @@
 I’m a software engineer with **5+ years of experience** helping **startups, founders, and businesses** bring their ideas to life through **mobile and web applications**.
 
 ### What I’m currently working on
-- **Maintaining and improving the Pgold Pro App** — introducing new features that make transacting **easy, secure, and reliable**
-- **Helping Merchrix bring its ideas to life** — one commit at a time
+- **Maintaining and improving the (Pgold Pro App)[https://www.pgoldapp.com/]** — introducing new features that make transacting **easy, secure, and reliable**
+- **Helping (Merchrix)[https://www.merchrix.com/] bring its ideas to life** — one commit at a time
 
 ### What I specialize in
 - **Cross-platform apps** with Flutter  
