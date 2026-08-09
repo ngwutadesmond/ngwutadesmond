@@ -1,23 +1,68 @@
 ![Header](1500x500.jpeg)
 
-I’m a software engineer with **5+ years of experience** helping **startups, founders, and businesses** bring their ideas to life through **mobile and web applications**.
+# Hi, I'm Desmond 👋
 
-### What I’m currently working on
-- **Maintaining and improving the [Pgold Pro App](https://www.pgoldapp.com/)** — introducing new features that make transacting **easy, secure, and reliable**
-- **Helping [Merchrix](https://www.merchrix.com/) bring its ideas to life** — one commit at a time
+I build mobile applications that people love to use.
 
-### What I specialize in
-- **Cross-platform apps** with Flutter  
-- **Native Android** (Kotlin/Java) and **iOS** (Swift, UIKit, SwiftUI)  
-- **Fullstack development** with Java Spring Boot & REST APIs  
+I'm a software engineer specializing in mobile development, helping startups, founders, and businesses transform ideas into polished, production-ready Android and iOS applications. While mobile is my primary focus, I'm continuously improving my backend engineering knowledge to build better end-to-end products.
 
-### Experience
-I’ve collaborated with:
-- **NUBiA Mega Tech** – building scalable cross-platform mobile apps  
-- **Jamit** – launching production-grade Android apps  
-- **PreDiagn** – developing a health diagnostics app powered by ML  
-- Multiple **founders and global clients** on freelance projects in health tech, productivity, and on-demand services  
+---
 
-### Let’s build something together
-📫 **Email:** desmondchidi311@gmail.com  
-🔗 **LinkedIn:** https://linkedin.com/in/ngwuta  
+## Currently Building
+
+- 📱 Leading the development of **[Pgold](https://pgoldapp.com/)**, a production fintech application focused on secure and seamless digital payments.
+- 🚀 Building the future of creator commerce with **[Merchrix](https://merchrix.com/)**.
+- 🌍 Developing products for founders and startups across fintech, e-commerce, creator economy, and SaaS.
+
+---
+
+## What I Do
+
+- Flutter Mobile Development
+- Native Android (Kotlin & Java)
+- iOS Development (Swift)
+- Improving my backend engineering knowledge
+- Firebase / Supabase
+- Systems Architecture
+- Performance Optimization
+- AI-assisted Software Engineering (Claude Code & OpenAI Codex)
+
+---
+
+## Selected Products
+
+- 💳 **Pgold**  
+  https://pgoldapp.com/
+
+- 🛍️ **Merchrix**  
+  https://merchrix.com/
+
+- 🔐 **CyberEx**  
+  https://cyberex.tech/
+
+- 🚗 **Revlot**  
+  https://revlot.co/
+
+- 🪪 **Open Creator Registry**  
+  https://open-creator-registry.ngwutades.workers.dev/
+
+---
+
+## Engineering Philosophy
+
+I enjoy building products that are simple for users, scalable for businesses, and maintainable for engineering teams.
+
+My focus is writing clean, reliable code, creating intuitive user experiences, and shipping software that solves real problems.
+
+---
+
+## Let's Connect
+
+📧 **Email**  
+desmondchidi311@gmail.com
+
+💼 **LinkedIn**  
+https://linkedin.com/in/ngwuta
+
+🌐 **Portfolio**  
+https://ngwudadesmond.notion.site/portfolio
