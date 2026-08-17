@@ -65,4 +65,4 @@ desmondchidi311@gmail.com
 https://linkedin.com/in/ngwuta
 
 🌐 **Portfolio**  
-https://ngwudadesmond.notion.site/portfolio
+https://ngwutadesmond.notion.site/portfolio
